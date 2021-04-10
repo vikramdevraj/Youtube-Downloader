@@ -20,6 +20,5 @@ Youtube Downloader is an application that lets you download videos from YouTube.
 * Variety of output formats:mp4 and mp3
 * Selectable video quality
 
-
 # Credits:
 * took guidance from [Anurag singhania] (https://github.com/itzanuragsinghania) he is my friend who always motivate me and also give me unique ideas.
